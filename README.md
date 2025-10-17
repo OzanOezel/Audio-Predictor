@@ -1,5 +1,5 @@
 # Audio-Predictor
-Predicts short missing audio segments of songs. This is an updated version of Fourier Predicter created by Professor Marco Gori, University of Siena.
+Predicts short missing audio segments of songs. This is an updated version of Fourier Predictor created by Professor Marco Gori, University of Siena.
 
 The files within this folder are:
 
